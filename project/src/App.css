@@ -1,0 +1,12 @@
+.project{
+  color:#00F;
+}
+
+.project-listing{
+  list-style: none;
+}
+
+.element-block{
+  clear:both;
+  padding: 3px;
+}
